@@ -9,7 +9,7 @@
 A modern, interactive quiz application built with vanilla HTML, CSS, and JavaScript. This project demonstrates proficiency in frontend development, responsive design, and modern web technologies while delivering an engaging user experience.
 
 **Live Demo:** https://gdg-seven-wine.vercel.app/  
-**GitHub Repository:** 
+**GitHub Repository:** https://github.com/Anu-mishra743/GDG.git
 
 ##  Features Implemented
 
