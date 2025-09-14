@@ -69,12 +69,12 @@ A modern, interactive quiz application built with vanilla HTML, CSS, and JavaScr
 
 ```
 quiz-app/
-â”œâ”€â”€ index.html          # Main HTML structure
-â”œâ”€â”€ style.css           # Styling and responsive design  
-â”œâ”€â”€ script.js           # Quiz logic and functionality
-â”œâ”€â”€ questions.json      # Question database (optional)
-â”œâ”€â”€ README.md          # Project documentation
-â””â”€â”€ screenshots/       # Demo images (optional)
+index.html          # Main HTML structure
+style.css           # Styling and responsive design
+script.js           # Quiz logic and functionality
+questions.json      # Question database (optional)
+README.md          # Project documentation
+screenshots/       # Demo images (optional)
 ```
 
 ##  How to Use
