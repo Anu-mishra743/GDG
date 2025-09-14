@@ -8,8 +8,8 @@
 
 A modern, interactive quiz application built with vanilla HTML, CSS, and JavaScript. This project demonstrates proficiency in frontend development, responsive design, and modern web technologies while delivering an engaging user experience.
 
-**Live Demo:** [Your Deployed URL Here]  
-**GitHub Repository:** [Your GitHub Repo URL Here]
+**Live Demo:** https://gdg-seven-wine.vercel.app/  
+**GitHub Repository:** 
 
 ##  Features Implemented
 
@@ -63,9 +63,9 @@ A modern, interactive quiz application built with vanilla HTML, CSS, and JavaScr
    # Visit: http://localhost:8000
    ```
 
-3. **Start quizzing!** ðŸŽ‰
+3. **Start quizzing!**
 
-## ðŸ“ Project Structure
+##  Project Structure
 
 ```
 quiz-app/
@@ -87,7 +87,7 @@ quiz-app/
 6. **High Scores** - Check leaderboard and beat your best
 7. **Themes** - Toggle between light and dark modes
 
-## ðŸ’» Code Highlights
+##  Code Highlights
 
 ### Object-Oriented Architecture
 ```javascript
@@ -132,10 +132,10 @@ saveHighScore(percentage, timeTaken) {
 
 | Browser | Version | Status |
 |---------|---------|---------|
-| Chrome | 80+ | âœ… Fully Supported |
-| Firefox | 75+ | âœ… Fully Supported |
-| Safari | 13+ | âœ… Fully Supported |
-| Edge | 80+ | âœ… Fully Supported |
+| Chrome | 80+ | Fully Supported |
+| Firefox | 75+ | Fully Supported |
+| Safari | 13+ | Fully Supported |
+| Edge | 80+ | Fully Supported |
 
 ## Deployment
 
@@ -171,7 +171,7 @@ window.quiz.score; // Check current score
 localStorage.getItem('quizHighScores'); // Check saved scores
 ```
 
-## ðŸ“ˆ Future Enhancements
+##  Future Enhancements
 
 -  Multiple quiz categories
 -  Sound effects and music
@@ -200,7 +200,7 @@ As a first-year Computer Science student with a strong interest in both frontend
 4. **Complete Within Timeline** - Delivering a polished product on schedule
 5. **Add Portfolio Value** - Professional-quality project for future opportunities
 
-## » About the Developer
+##  About the Developer
 
 **Anushka**  
 First-Year Computer Science Student | Newton School of Technology
